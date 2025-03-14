@@ -1,7 +1,8 @@
 # 🏥 Hospital Management System
 A Java-based Hospital Management System using MySQL and JDBC designed to streamline hospital operations and improve patient care management. This system allows healthcare providers to efficiently manage patient information, doctor details, and appointment scheduling, ensuring a smooth and organized workflow.
 
-![Hospital System](assets/hospital.png)
+![Hospital System](assets/hospital.png) <br>
+**Database Schema:**
 ![Hospital System](assets/hospital_db.png)
 
 # ✨ Project Overview
