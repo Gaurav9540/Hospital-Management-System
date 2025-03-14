@@ -3,6 +3,7 @@ A Java-based Hospital Management System using MySQL and JDBC designed to streaml
 
 ![Hospital System](assets/hospital.png) <br> <br>
 **Database Schema:**
+<br>
 ![Hospital System](assets/hospital_db.png)
 
 # ✨ Project Overview
