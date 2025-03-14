@@ -15,10 +15,10 @@ The Hospital Management System is a robust application that helps hospitals and 
 ✅ **Secure Data Management** – Ensure that sensitive data is securely handled with proper access controls and validation. <br>
 
 # 🎯 Use Cases
-Hospital Reception – Manage patient registration and appointment booking. <br>
-Doctors – Access patient details and manage schedules. <br>
-Patients – Book appointments and view medical history. <br>
-Administrators – Manage users, doctors, and hospital resources. <br>
+**Hospital Reception** – Manage patient registration and appointment booking. <br>
+**Doctors** – Access patient details and manage schedules. <br>
+**Patients** – Book appointments and view medical history. <br>
+**Administrators** – Manage users, doctors, and hospital resources. <br>
 
 # 🏆 Future Enhancements
 ✅ **Add authentication and authorization for secure access.** <br>
